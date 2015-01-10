@@ -216,7 +216,6 @@ fieldset[disabled] .btn-primary.active {
 }
 .background-shade {
   display: table;
-  height: 100%;
   width: 100%;
   top: 0;
   left: 0;
@@ -499,7 +498,6 @@ section#product .small-hand-container {
 }
 section#product .small-hand-container img {
   position: relative;
-  height: 100%;
   width: 100%;
 }
 @media (max-width: 991px) {
