@@ -1,66 +1,54 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vendor Rewards</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sat, 10 Jan 2015 01:07:36 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Post number 4</title><description>&lt;p&gt;This one should push others off the page&lt;/p&gt;</description><link>http://localhost:2368/post-number-4/</link><guid isPermaLink="false">cd1b8da1-3d37-4849-b854-7d4ef4bc2549</guid><dc:creator>Paul Ammann</dc:creator><pubDate>Fri, 12 Dec 2014 19:26:35 GMT</pubDate></item><item><title>Test Post</title><description>&lt;p&gt;I need an image associated with this post&lt;/p&gt;</description><link>http://localhost:2368/test-post/</link><guid isPermaLink="false">646eb232-81ff-4809-894c-6d0a5deced14</guid><dc:creator>Paul Ammann</dc:creator><pubDate>Fri, 12 Dec 2014 19:25:27 GMT</pubDate></item><item><title>Post number 3</title><description>&lt;p&gt;All your posts are belong to us&lt;/p&gt;</description><link>http://localhost:2368/post-number-3/</link><guid isPermaLink="false">707bf332-a50e-4949-8169-9abf282c93ba</guid><dc:creator>Paul Ammann</dc:creator><pubDate>Fri, 12 Dec 2014 19:25:00 GMT</pubDate></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vendor IQ</title><description>Vendor IQ helps you purchase from the vendors that restaurant owners love. Find your perfect vendor match today!</description><link>http://www.vendorrewards.com/</link><generator>Ghost 0.5</generator><lastBuildDate>Sat, 10 Jan 2015 01:11:01 GMT</lastBuildDate><atom:link href="http://www.vendorrewards.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Buy smarter - Focusing on how you buy</title><description>&lt;p&gt;Turns out that how you buy can have a major impact on your prices. &lt;/p&gt;
 
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Three secrets to get better prices&lt;/strong&gt;
+Buying at the best price is one of the most important things you can do as a restaurant owner. Of course, just because you are buying, doesn’t mean your vendors are giving you the best price (unless you are growing your own food out back).&lt;/p&gt;
 
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
-
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;or with numbers!&lt;/p&gt;
+&lt;p&gt;Turns out contrary to popular belief vendor pricing is often driven by the way you buy. Here are the three quickest ways to reduce your pricing.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;&lt;p&gt;Stop Breaking cases - Vendors may charge owners who consistently break cases 20-45% more for product to compensate for housing un-sold product&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Eliminate multiple deliveries in a day - Getting multiple deliveries on the same day (excluding those for bad product) is one of the fastest ways to get higher pricing from your vendors&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Drop Sizes - Increasing your drop size by reducing the trips you make to Costco, Restaurant Depot, etc. can lead to lower pricing as you become a more valuable and manageable customer for your vendor. &lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;</description><link>http://www.vendorrewards.com/buy-smarter-focusing-on-how-you-buy/</link><guid isPermaLink="false">e19dd20f-026e-4522-8536-a2c2176ae439</guid><dc:creator>Cameron Nutting</dc:creator><pubDate>Mon, 05 Jan 2015 12:04:51 GMT</pubDate></item><item><title>Data playing a larger role in selecting vendors</title><description>&lt;p&gt;Restaurant owners are arming themselves to make better choices&lt;/p&gt;
 
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;p&gt;A vendor’s NPS (Net Promoter Score) – the willingness of their own clients to recommend them to another owner can reveal both the most attentive suppliers and those serious issues. When it comes down to it, it’s more than a numbers game, and the relationship between owner and vendor can reach a point where both need to part ways, as relationship has become either  efficient or otherwise toxic. &lt;/p&gt;
 
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org/"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org/"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
+&lt;p&gt;In an attempt to deal this issue, owners are arming themselves with the confidence and tools needed to make the sometimes necessary switch to a vendor willing to be transparent and best suited their needs. When restaurant owners recognize their own value, they are empowered to seek out a stronger vendor partnership. &lt;/p&gt;
 
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
+&lt;p&gt;We know that most owners have experienced at least 1 of the following:&lt;/p&gt;
 
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
+&lt;p&gt;An upsurge in items without notification &lt;br&gt;
+Dissatisfaction with customer service &lt;br&gt;
+A significant drop in quality and product consistency &lt;br&gt;
+Inconsistent delivery schedules &lt;br&gt;
+Opportunities to access the same products for a lower price  &lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
+&lt;p&gt;By getting access to increased market transparency through trusted third parties owners are increasingly aware of their opportunities. With data in their hands, these choices become straightforward business decisions, and owners can be clear about how and where they are saving. &lt;/p&gt;
 
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
+&lt;p&gt;While loyalty to a vendor or vendor rep has always been an important part of the restaurant business, increased access to transparent marketplace data and Main Street Certified Vendors are changing owners' calculus. The fact is, prices, service and product quality have the most significant impact on an owner's final decisions about which vendors get their valuable business. When these variables are known quantities the prospect of selecting a vendor is a matter of straightforward analysis, leaving the drama out of the equation. &lt;/p&gt;</description><link>http://www.vendorrewards.com/take-the-drama-out-of-switching-vendors/</link><guid isPermaLink="false">8e93685c-d91d-4017-ba1f-9cf03a6bb5eb</guid><dc:creator>Cameron Nutting</dc:creator><pubDate>Mon, 05 Jan 2015 12:04:37 GMT</pubDate></item><item><title>The VendorIQ Story</title><description>&lt;p&gt;&lt;strong&gt;The VendorIQ Story&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
+&lt;p&gt;The team behind VendorIQ represents a collection of unique individuals that share a single trait: love of Main Street businesses and their owners. VendorIQ was created by the Main Street Genome team, and our entire team is made up of small business owners, restauranteurs, come from families of business owners or have grown up working in small businesses.&lt;/p&gt;
 
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. It was probably very wisdomous. Is wisdomous a word? Find out in a future release when we introduce spellcheck! For now - it's definitely a word.&lt;/p&gt;
+&lt;p&gt;VendorIQ initially emerged from research by Scott Case, founding CTO of Priceline and the CEO of the Startup America Project, and Eric Koester, a professor of entrepreneurship at Georgetown University and the co-founder of Zaarly.com. Scott and Eric were struck by the fact that small businesses were generating more and more digital data, but weren’t benefiting from that data.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Wisdomous - it's definitely a word.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Said cofounder Scott Case, “Main Street businesses are the backbone of our country — and we just felt like someone should be focused on making them more successful. We’re seeing fewer small businesses being started and we want to help reverse that."&lt;/p&gt;
 
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Using data to match Restaurants with Main Street Certified Vendors&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
+&lt;p&gt;The team was particularly struck to find that independent restaurants were spending billions on goods and services to run their businesses, but critical decisions about how to select the vendors that supplied them were far from scientific. This created an inefficient buying process costing the independents billions — in fact, our research found independent restaurants paying more than large chains — to the tune of 20-25% higher prices, primarily driven by the inefficient buying patterns of independent owners.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The Main Street Genome team asked itself: could we use technology to help these independents purchase more efficiently — and in return help these owners drive more profit?&lt;/p&gt;
 
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
+&lt;p&gt;After nearly a year of research and development, VendorIQ was born.&lt;/p&gt;
 
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
+&lt;p&gt;VendorIQ works by partnering with the vendors that serve independent businesses, from food and beverage vendors to equipment and banks to cleaning and accounting. The Main Street Genome team uses VendorIQ to match restaurant owners with Main Street Certified Vendors. These vendors are highly rated by independent restaurant owners and have agreed to a first of its kind transparency policy. &lt;/p&gt;
 
-&lt;hr&gt;
+&lt;p&gt;VendorIQ uses its leading contributed data platform to analyze millions of transactions in real-time, monitoring market and pricing fluctuations. For years, these sorts of marketplace insights were only available to large franchises and corporate chains who had the scale to monitor across their many locations, but now advances in technology allow our team to bring first-of-its-kind data management and analysis to Main Street.&lt;/p&gt;
 
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Partnering With Main Street&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
+&lt;p&gt;The Main Street Genome team has ambitious plans to continue to build data-driven tools to support Main Street owners. From restauranteurs and retailers to doctors and dentists to builders and wholesalers, they each are embracing technology to make their businesses grow and thrive.&lt;/p&gt;
 
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
+&lt;p&gt;Said cofounder Eric Koester, “We’re not going anywhere. My dad was a small business owner and I’ve spent much of my career working with, for and studying the small business economy. I’m so excited to continue helping owners realize their dreams — it keeps me jumping out of bed every day.”&lt;/p&gt;
 
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">b45e8da5-aa6b-47b8-a16a-aac35bf7c4e2</guid><category>Getting Started</category><dc:creator>Paul Ammann</dc:creator><pubDate>Tue, 25 Nov 2014 14:27:07 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Main Street Genome includes top data scientists, engineers, business development specialists, economists, investors and other leading minds focused on the small business economy. We’re always looking for talented individuals, passionate about Main Street, interested in joining our team — drop us a line at &lt;a href="http://www.vendorrewards.com/jobs@mainstreetgenome.com"&gt;jobs@mainstreetgenome.com&lt;/a&gt;.&lt;/p&gt;</description><link>http://www.vendorrewards.com/the-vendor-iq-story/</link><guid isPermaLink="false">90c57463-cf74-4520-ae7a-7ddbf085a120</guid><dc:creator>Cameron Nutting</dc:creator><pubDate>Mon, 05 Jan 2015 12:04:26 GMT</pubDate></item></channel></rss>
